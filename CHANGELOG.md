@@ -8,7 +8,7 @@
 
 - allow-apn-category-field
 
-## [v2.6.0] (https://github.com/raix/push/tree/v2.6.0)
+## [v2.6.0] (https://github.com/Meteor-Community-Packages/push/tree/v2.6.0)
 #### 28/01/15 by Morten Henriksen
 - Respect resume - if paused wait until resume before triggering start up events
 
@@ -24,9 +24,9 @@
 
 - Allow the client create doc with id instead of throwing error
 
-## [master-workpop-pr] (https://github.com/raix/push/tree/master-workpop-pr)
+## [master-workpop-pr] (https://github.com/Meteor-Community-Packages/push/tree/master-workpop-pr)
 #### 27/01/15 by Morten Henriksen
-## [master-foo] (https://github.com/raix/push/tree/master-foo)
+## [master-foo] (https://github.com/Meteor-Community-Packages/push/tree/master-foo)
 #### 27/01/15 by Morten Henriksen
 - check that token is not undefined
 
@@ -74,7 +74,7 @@
 
 Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](https://github.com/funkyeah).
 
-## [v2.5.1] (https://github.com/raix/push/tree/v2.5.1)
+## [v2.5.1] (https://github.com/Meteor-Community-Packages/push/tree/v2.5.1)
 #### 04/01/15 by Morten Henriksen
 - Add updated iframe code for consistency
 
@@ -82,7 +82,7 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - Change payload behaviour - Modify payload when sending instead of storing
 
-## [v2.5.0] (https://github.com/raix/push/tree/v2.5.0)
+## [v2.5.0] (https://github.com/Meteor-Community-Packages/push/tree/v2.5.0)
 #### 03/01/15 by Morten Henriksen
 - Improve the payload object, this is now the same on both iOS and Android and will preserve types via ejson
 
@@ -96,27 +96,27 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - exclude aps from the payload
 
-## [v2.4.1] (https://github.com/raix/push/tree/v2.4.1)
+## [v2.4.1] (https://github.com/Meteor-Community-Packages/push/tree/v2.4.1)
 #### 03/01/15 by Morten Henriksen
 - Fixed getting userId on the server throws error
 
-## [v2.4.0] (https://github.com/raix/push/tree/v2.4.0)
+## [v2.4.0] (https://github.com/Meteor-Community-Packages/push/tree/v2.4.0)
 #### 03/01/15 by Morten Henriksen
 - Refactor Push.init to Push.Configure and add call once check
 
-## [v2.3.3] (https://github.com/raix/push/tree/v2.3.3)
+## [v2.3.3] (https://github.com/Meteor-Community-Packages/push/tree/v2.3.3)
 #### 03/01/15 by Morten Henriksen
 - just sound location
 
 - Add better Push.debug verbosity
 
-## [v2.3.2] (https://github.com/raix/push/tree/v2.3.2)
+## [v2.3.2] (https://github.com/Meteor-Community-Packages/push/tree/v2.3.2)
 #### 29/12/14 by Morten Henriksen
 - Dont try to play empty sound file names
 
 - only prefix sound if text found
 
-## [v2.3.1] (https://github.com/raix/push/tree/v2.3.1)
+## [v2.3.1] (https://github.com/Meteor-Community-Packages/push/tree/v2.3.1)
 #### 29/12/14 by Morten Henriksen
 - 2.3.1 - added payload option
 
@@ -132,7 +132,7 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - check and add payload
 
-## [v2.3.0] (https://github.com/raix/push/tree/v2.3.0)
+## [v2.3.0] (https://github.com/Meteor-Community-Packages/push/tree/v2.3.0)
 #### 29/12/14 by Morten Henriksen
 - add type in events
 
@@ -159,7 +159,7 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 - Dont emit badge event when user sets badge
 
 
-## [v2.2.1] (https://github.com/raix/push/tree/v2.2.1)
+## [v2.2.1] (https://github.com/Meteor-Community-Packages/push/tree/v2.2.1)
 #### 29/12/14 by Morten Henriksen
 - Add the passphrase... ups
 
@@ -181,7 +181,7 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - Update change log
 
-## [v2.1.3] (https://github.com/raix/push/tree/v2.1.3)
+## [v2.1.3] (https://github.com/Meteor-Community-Packages/push/tree/v2.1.3)
 #### 27/12/14 by Morten Henriksen
 - Use the matchToken in common
 
@@ -189,17 +189,17 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - Added a basic example
 
-## [v2.1.2] (https://github.com/raix/push/tree/v2.1.2)
+## [v2.1.2] (https://github.com/Meteor-Community-Packages/push/tree/v2.1.2)
 #### 27/12/14 by Morten Henriksen
 - Thanks to @adam-hanna
 
-## [v2.1.1] (https://github.com/raix/push/tree/v2.1.1)
+## [v2.1.1] (https://github.com/Meteor-Community-Packages/push/tree/v2.1.1)
 #### 26/12/14 by Morten Henriksen
 - Add more debug verbosity
 
 - Fix android sends - convert string to array of strings
 
-## [v2.1.0] (https://github.com/raix/push/tree/v2.1.0)
+## [v2.1.0] (https://github.com/Meteor-Community-Packages/push/tree/v2.1.0)
 #### 26/12/14 by Morten Henriksen
 - Correct documentation
 
@@ -223,7 +223,7 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - move setBadge to client code for now
 
-## [v2.0.11] (https://github.com/raix/push/tree/v2.0.11)
+## [v2.0.11] (https://github.com/Meteor-Community-Packages/push/tree/v2.0.11)
 #### 26/12/14 by Morten Henriksen
 - Clean up docs and hide more advanced features
 
@@ -237,7 +237,7 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - Add security warnings about exposing keys/certificates or passphrase on client
 
-## [v2.0.10] (https://github.com/raix/push/tree/v2.0.10)
+## [v2.0.10] (https://github.com/Meteor-Community-Packages/push/tree/v2.0.10)
 #### 26/12/14 by Morten Henriksen
 - 2.0.10 - Added userId and metadata to the appCollection
 
@@ -273,7 +273,7 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - Add Push scope to common code
 
-## [v2.0.9] (https://github.com/raix/push/tree/v2.0.9)
+## [v2.0.9] (https://github.com/Meteor-Community-Packages/push/tree/v2.0.9)
 #### 23/12/14 by Morten Henriksen
 - Add details about apn initFeedback
 
@@ -283,11 +283,11 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - Actually update the token
 
-## [v2.0.8] (https://github.com/raix/push/tree/v2.0.8)
+## [v2.0.8] (https://github.com/Meteor-Community-Packages/push/tree/v2.0.8)
 #### 23/12/14 by Morten Henriksen
 - Fix by @adamgins - data wiped on update #2
 
-## [v2.0.7] (https://github.com/raix/push/tree/v2.0.7)
+## [v2.0.7] (https://github.com/Meteor-Community-Packages/push/tree/v2.0.7)
 #### 20/12/14 by Morten Henriksen
 - Bump to version 2.0.7
 
@@ -301,23 +301,23 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - have send return send status object { apn: 0, gcm: 0 }
 
-## [v2.0.6] (https://github.com/raix/push/tree/v2.0.6)
+## [v2.0.6] (https://github.com/Meteor-Community-Packages/push/tree/v2.0.6)
 #### 17/12/14 by Morten Henriksen
 - Bump to version 2.0.6
 
 - mbr update, remove versions.json
 
-## [v2.0.5] (https://github.com/raix/push/tree/v2.0.5)
+## [v2.0.5] (https://github.com/Meteor-Community-Packages/push/tree/v2.0.5)
 #### 17/12/14 by Morten Henriksen
-## [v2.0.4] (https://github.com/raix/push/tree/v2.0.4)
+## [v2.0.4] (https://github.com/Meteor-Community-Packages/push/tree/v2.0.4)
 #### 17/12/14 by Morten Henriksen
 - mbr update versions and fix warnings
 
-## [v2.0.3] (https://github.com/raix/push/tree/v2.0.3)
+## [v2.0.3] (https://github.com/Meteor-Community-Packages/push/tree/v2.0.3)
 #### 16/12/14 by Morten Henriksen
 - have the value be null instead of undefined
 
-## [v2.0.2] (https://github.com/raix/push/tree/v2.0.2)
+## [v2.0.2] (https://github.com/Meteor-Community-Packages/push/tree/v2.0.2)
 #### 16/12/14 by Morten Henriksen
 - Fix options extend
 
@@ -327,7 +327,7 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - add github page
 
-## [v2.0.1] (https://github.com/raix/push/tree/v2.0.1)
+## [v2.0.1] (https://github.com/Meteor-Community-Packages/push/tree/v2.0.1)
 #### 15/12/14 by Morten Henriksen
 - add setBadge
 

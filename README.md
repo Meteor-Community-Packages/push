@@ -1,6 +1,6 @@
-# DEPRECATED: This package is no longer maintained
+# NOTICE: This package has moved from raix:push (deprecated) to Meteor Community Packages.
 
-<img alt="Gi-SoftWare" src="https://raw.githubusercontent.com/raix/push/master/docs/logo.png" width="20%" height="20%">
+<img alt="Gi-SoftWare" src="https://raw.githubusercontent.com/Meteor-Community-Packages/push/master/docs/logo.png" width="20%" height="20%">
 
 raix:push Push notifications
 ============================
@@ -128,7 +128,7 @@ Have a look at the [Basic example](docs/BASIC.md)
 
 Theres a good walkthrough by [Arthur Carabott](https://medium.com/@acarabott/meteor-native-ios-push-notifications-heroku-raix-push-cordova-213f486c4e6d#.akrtpzmi7)
 
-Read the [raix:push Newbie Manual](https://github.com/raix/push/wiki/raix:push-Newbie-Manual) by [@harryward](https://github.com/harryward)
+Read the [raix:push Newbie Manual](https://github.com/Meteor-Community-Packages/push/wiki/raix:push-Newbie-Manual) by [@harryward](https://github.com/harryward)
 
 Or check out the [DEMO](https://github.com/elvismercado/meteor-raix-push-demo) by [@elvismercado](https://github.com/elvismercado)
 (This example uses the deprecated config.push.json)

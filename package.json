@@ -22,13 +22,13 @@
   "commitlint": {
     "extends": ["@commitlint/config-conventional"]
   },
-  "repository": "https://github.com/raix/push.git",
+  "repository": "https://github.com/Meteor-Community-Packages/push.git",
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raix/push/issues"
+    "url": "https://github.com/Meteor-Community-Packages/push/issues"
   },
-  "homepage": "https://github.com/raix/push#readme",
+  "homepage": "https://github.com/Meteor-Community-Packages/push#readme",
   "devDependencies": {
     "@commitlint/cli": "^5.1.1",
     "@commitlint/config-conventional": "^5.1.3",
