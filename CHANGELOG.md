@@ -173,7 +173,7 @@ Patches by GitHub users [@alexcorre](https://github.com/alexcorre), [@funkyeah](
 
 - update change log
 
-## [v2.2.0] (https://github.com/raix/push/tree/v2.2.0)
+## [v2.2.0] (https://github.com/Meteor-Community-Packages/push/tree/v2.2.0)
 #### 28/12/14 by Morten Henriksen
 - Add support for config file
 
